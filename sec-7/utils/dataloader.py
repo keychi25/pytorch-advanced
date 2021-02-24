@@ -1,6 +1,4 @@
 # 第7章 自然言語処理による感情分析（Transformer）
-
-
 import glob
 import os
 import io
